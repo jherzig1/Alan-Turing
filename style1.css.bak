@@ -1,0 +1,69 @@
+/*
+
+CSS for Bubble Under site
+
+*/
+
+body {font-family: Verdana, Helvetica, Arial, sans-serif; background-color: black; line-height: 125%;
+
+ padding: 15px;
+
+}
+
+h1 {font-family: "Dancing Script", Arial, sans-serif; font-size: x-large;}
+
+li {font-size: x-small;}
+h2 {color: blue; font-size: medium; font-weight: normal;}
+
+p {font-size: small; color: White;}
+em {font-style: normal; text-transform: uppercase;}
+
+#tagline p {font-style: italic; font-family: Georgia, Times, Serfif;}
+
+ h1, h2, h3 {font-family: "Dancing Script", Arial, sans-serif; background-color: Purple; color: white;}
+ 
+ a {
+
+ font-weight: bold;
+
+}
+
+a:link {
+
+ color: white;
+
+}
+
+a:visited {
+
+ color: white;
+
+}
+
+a:hover {
+
+ text-decoration: none;
+
+ color: white;
+
+ background-color: black;
+
+}
+
+a:active {
+
+ color: aqua;
+
+ background-color: navy;
+
+}
+.fun {
+
+ color: #339999;
+
+ font-family: Georgia, Times, serif;
+
+ letter-spacing: 0.05em;
+
+}
+ 
