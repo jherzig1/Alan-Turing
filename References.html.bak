@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <title>Alan Turing</title>
+ <meta charset="utf-8"/>
+ <link href="style1.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+<div id="header">
+<div id="sitebranding">
+ <h1>Alan Turing</h1>
+</div>
+<div id="tagline">
+ <p>The Misunderstood Genius</p>
+</div>
+</div> <!-- end of header div -->
+<div id="navigation">
+ <ul>
+ <li><a href="index.html">Early Life</a></li>
+ <li><a href="Contact.html">Education</a></li>
+ <li><a href="About.html">Death</a></li>
+ <li><a href="References.html">References</a></li>
+ </ul>
+</div> <!-- end of navigation div -->
+<h2>Refernces<h2>
+ <body>
+ <P> https://en.wikipedia.org/wiki/Alan_Turing </P>
+ </body>
+</html>
